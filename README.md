@@ -9,7 +9,7 @@ Analyse internet sales over time and across products, customers, and regions to 
 Excel, Power BI, Tableau, MySQL
 
 ## Dataset
-- 8 tables, 60,398 sales rows (Sales_New + Sales_Old combined), 2010–2014
+- 8 tables, 60,398 sales rows (Sales_New + Sales_Old combined), 2010–2014, Provided by ExcelR
 
 ## Data Preparation
 - Combined Sales_New and Sales_Old into one table (60,398 rows) with zero data loss
